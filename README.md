@@ -46,6 +46,7 @@ RTL realization
 
 ### Output:
 ![hal add pro](https://github.com/AnbuSelvanS7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151528411/37403bd9-60f7-4416-b6e4-3db203790158)
+
 ![full add pro](https://github.com/AnbuSelvanS7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151528411/1a2c3164-9a14-48c1-a7fc-81b701f28567)
 
 
@@ -56,6 +57,7 @@ RTL realization
 
 ### TIMING DIAGRAM
 ![hal time](https://github.com/AnbuSelvanS7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151528411/39c8c468-f82d-477f-b51f-b78baeadd1e4)
+
 ![ful time](https://github.com/AnbuSelvanS7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151528411/b883bd1b-d003-489f-b232-958e7f794403)
 
 ### TRUTH TABLE 

@@ -45,10 +45,24 @@ Logic symbol & Truthtable
 RTL realization
 
 ### Output:
-### RTL
-### TIMING DIAGRAM
+![hal add pro](https://github.com/AnbuSelvanS7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151528411/37403bd9-60f7-4416-b6e4-3db203790158)
+![full add pro](https://github.com/AnbuSelvanS7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151528411/1a2c3164-9a14-48c1-a7fc-81b701f28567)
 
+
+### RTL
+![rtl hal](https://github.com/AnbuSelvanS7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151528411/c8bc5a81-669c-47b4-bfe3-276f6d9397c1)
+![rtl full](https://github.com/AnbuSelvanS7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151528411/a420f00a-5c62-414b-96b2-536b600478ad)
+
+
+### TIMING DIAGRAM
+![hal time](https://github.com/AnbuSelvanS7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151528411/39c8c468-f82d-477f-b51f-b78baeadd1e4)
+![ful time](https://github.com/AnbuSelvanS7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151528411/b883bd1b-d003-489f-b232-958e7f794403)
 
 ### TRUTH TABLE 
+![TT hal](https://github.com/AnbuSelvanS7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151528411/7751ab31-a784-437a-8aa4-49689a6fecda)
+![TT full](https://github.com/AnbuSelvanS7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151528411/10fe06fa-0663-4f5d-b356-5ca7d61ecb3e)
+
+
 
 ### Result:
+To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.

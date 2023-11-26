@@ -62,6 +62,7 @@ RTL realization
 
 ### TRUTH TABLE 
 ![TT hal](https://github.com/AnbuSelvanS7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151528411/7751ab31-a784-437a-8aa4-49689a6fecda)
+
 ![TT full](https://github.com/AnbuSelvanS7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151528411/10fe06fa-0663-4f5d-b356-5ca7d61ecb3e)
 
 
